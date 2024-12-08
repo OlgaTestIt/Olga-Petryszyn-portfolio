@@ -10,8 +10,8 @@
 <p> Dobre Kursy IT
 X - XII 2024 
   course of Manual Testing</p>
-<p> 2017- 2018 Wroclaw University of Economics - Taxes and Bookkeeping”</p>
-<p> 2013 -2015 University of Wroclaw - Master Degree in Administration</p>
+<p> 2017 - 2018 Wroclaw University of Economics - Taxes and Bookkeeping”</p>
+<p> 2013 - 2015 University of Wroclaw - Master Degree in Administration</p>
 <p> 2010 - 2013 University of Wroclaw - Bachelor Degree in Administration</p>
 
 <h1>Certificates</h1>
