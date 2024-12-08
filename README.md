@@ -10,12 +10,16 @@ CodeTwo Ltd. in Jelenia Gora, Poland</p>
 
 <h2>Education</h2>
 <p> Dobre Kursy IT
-X - XII 2024 course of Manual Testing</p>
+X - XII 2024 
+  course of Manual Testing</p>
 <p> Wroclaw University of Economics
+  
 2017-2018 Taxes and Bookkeeping”</p>
 <p> University of Wroclaw
+  
 2013-2015 Master Degree in Administration</p>
 <p> University of Wroclaw
+  
 2010-2013 Bachelor Degree in Administration</p>
 
 <h3>Certificates</h3>
