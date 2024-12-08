@@ -3,10 +3,8 @@
 <body>
 
 <h1>Experience</h1>
-<p>2019-2024 Junior Tax and Bookkeeping Specialist
-TLA Omnifin Ltd. in Jelenia Gora, Poland</p>
-<p>2016-2018 Back Office Assistant
-CodeTwo Ltd. in Jelenia Gora, Poland</p>
+<p>2019-2024 Junior Tax and Bookkeeping Specialist at TLA Omnifin Ltd. in Jelenia Gora, Poland</p>
+<p>2016-2018 Back Office Assistant at CodeTwo Ltd. in Jelenia Gora, Poland</p>
 
 <h2>Education</h2>
 <p> Dobre Kursy IT
